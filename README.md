@@ -1,5 +1,7 @@
 # 🛡️ PRODIGY_CS_05 — Network Packet Analyzer
 
+This is Task 5 of the Cybersecurity track from Prodigy Infotech.
+
 A lightweight Python-based network packet analyzer developed using Scapy.
 This tool captures and inspects live network traffic, displaying source and destination IPs, protocol types (TCP/UDP), and promoting responsible cybersecurity practices.
 
@@ -30,7 +32,7 @@ This tool captures and inspects live network traffic, displaying source and dest
 Clone the repository:
 
 ```bash
-git clone https://github.com/Jetlin Figarez/PRODIGY_CS_05-Network-Packet-Analyzer.git
+git clone https://github.com/Jetlin_Figarez/PRODIGY_CS_05-Network-Packet-Analyzer.git
 cd PRODIGY_CS_05-Network-Packet-Analyzer
 
 # Create and activate the virtual environment:
